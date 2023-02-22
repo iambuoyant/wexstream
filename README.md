@@ -1,5 +1,7 @@
 [![Frontend CI](https://github.com/aelassas/wexstream/actions/workflows/frontend.yml/badge.svg)](https://github.com/aelassas/wexstream/actions/workflows/frontend.yml) [![open in vscode](https://img.shields.io/badge/open%20in-vscode-1f425f.svg)](https://vscode.dev/github/aelassas/wexstream)
-
+<p>
+  https://www.codeproject.com/Articles/5353196/Wexstream-Video-Conferencing-Platform-with-Node-js
+  </p>
 <p align="center">
 <img src="https://wexstream.github.io/content/readme.png" width="900" />
 </p>
